@@ -1,3 +1,0 @@
-[submodule "zustand/direct-import/host"]
-	path = zustand/direct-import/host
-	url = https://github.com/dummybot88/vite-module-federation-state-management.git
